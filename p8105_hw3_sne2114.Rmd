@@ -1,0 +1,18 @@
+---
+title: "Homework"
+author: "Salah E;=Sadek"
+output: github_document
+---
+
+
+```{r}
+library(tidyverse)
+```
+
+Question 1
+
+```{r}
+
+```
+
+
